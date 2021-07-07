@@ -21,7 +21,8 @@ Let er hier wel op dat het hier om de kant in de richting van de OSM-weg gaat.
 
 #### Suggestiestrook `cycleway=shared_lane`
 
-Andersgekleurde strook asfalt, zonder markeringen. Geeft alleen ruimte voor fietser aan, maar geen verdere betekenis.
+Andersgekleurde strook asfalt, zonder markeringen.
+ Geeft alleen ruimte voor fietser aan, maar geen verdere betekenis.
 
 #### Fietsstrook `cycleway=lane`
 
