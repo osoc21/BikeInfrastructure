@@ -1,6 +1,6 @@
 # Bollards (other barriers?)
 
-Mapped using `barrier=bollard` on a node.
+Mapped using [`barrier=bollard`](https://wiki.openstreetmap.org/wiki/Key:bollard) on a node.
 
 ## Types
 
