@@ -11,7 +11,7 @@ Our GitHub pages is built from the src folder.
 
 [![Deploy](https://github.com/osoc21/BikeInfrastructure/actions/workflows/deploy.yml/badge.svg)](https://github.com/osoc21/BikeInfrastructure/actions/workflows/deploy.yml)
 
-### Installation & Usage
+## Installation & Usage
 
 Look at:
 [Development & deployment.](https://github.com/pietervdvn/MapComplete/tree/develop/Docs/Development_deployment.md)
