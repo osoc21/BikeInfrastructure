@@ -5,7 +5,7 @@ If you want to find out more about the project, take a look at the [GitHub pages
 
 **NOTE:** The actual source code of this project can be found in the [MapComplete repo](https://github.com/pietervdvn/MapComplete).
 
-## website
+## Website
 
 Our GitHub pages is built from the src folder.
 
