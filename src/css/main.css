@@ -19,6 +19,10 @@ img {
   border-radius: 50%;
 }
 
+video {
+  width: 100%;
+}
+
 /* osoc colors
 
 Green: #44dba4;
