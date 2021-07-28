@@ -56,3 +56,12 @@ ul.partners li {
 .social a:hover {
   background-color: #fcb70f;
 }
+
+.justify {
+  text-align: justify;
+}
+
+iframe {
+  width: 100%;
+  height: 50vh;
+}
