@@ -1,1 +1,0 @@
-{"mappings":"AAAA,OACA,cAAA,CACA,wBACA,CAEA,WACA,eACA,CAEA,kBAEA,gBAAA,CACA,UACA","sources":["src/css/footer.css"],"sourcesContent":["footer {\n\tpadding: 2rem 0;\n\tbackground-color: #0a0839;\n}\n\nfooter img {\n\tmax-width: 10rem;\n}\n\nfooter a,\nfooter p {\n\ttext-align: right;\n\tcolor: white;\n}\n\n\n"],"names":[],"version":3,"file":"index.53b059b2.css.map"}
