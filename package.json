@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.4",
-    "video.js": "7.15.4"
+    "video.js": "7.17.0"
   }
 }
