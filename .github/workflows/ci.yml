@@ -2,11 +2,11 @@ name: CI
 
 on:
   push:
-    paths_ignore:
+    paths-ignore:
       - "**.md"
       - ".vscode/"
   pull_request:
-    paths_ignore:
+    paths-ignore:
       - "**.md"
       - ".vscode/"
 
