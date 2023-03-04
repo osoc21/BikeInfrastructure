@@ -2,6 +2,7 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "seatonjiang.gitmoji-vscode",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "davidanson.vscode-markdownlint"
   ]
 }
